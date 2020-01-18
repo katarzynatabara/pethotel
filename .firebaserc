@@ -1,6 +1,6 @@
 {
   "projects": {
-    "development": "<insert project id here>",
-    "production": "<insert project id here>"
+    "development": "pet-hotel-prod-bf930",
+    "production": "pet-hotel-prod-bf930"
   }
 }
