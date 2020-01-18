@@ -22,7 +22,7 @@ const en = {
   },
 
   app: {
-    title: 'Application',
+    title: 'Pet Hotel',
   },
 
   entities: {
@@ -124,8 +124,8 @@ const en = {
         'photos': 'Photos',
         'status': 'Status',
         'cancellationNotes': 'CancellationNotes',
-        'feeRange': 'Fee',
-        'fee': 'Fee',
+        'feeRange': 'Total Fee',
+        'fee': 'Total Fee',
         'receipt': 'Receipt',
         createdAt: 'Created at',
         updatedAt: 'Updated at',
@@ -134,7 +134,7 @@ const en = {
       enumerators: {
         'status': {
           'booked': 'Booked',
-          'progress': 'Progress',
+          'progress': 'In Progress',
           'cancelled': 'Cancelled',
           'completed': 'Completed',
         },
@@ -244,8 +244,8 @@ const en = {
   },
 
   iam: {
-    title: 'Identity and Access Management',
-    menu: 'IAM',
+    title: 'Users',
+    menu: 'Users',
     disable: 'Disable',
     disabled: 'Disabled',
     enabled: 'Enabled',
